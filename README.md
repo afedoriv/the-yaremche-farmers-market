@@ -42,13 +42,13 @@
 
 ## About The Project
 
-![Product Name Screen Shot](assets/website-demo.png)
-
 <br />
 
-<img src="https://user-images.githubusercontent.com/16434638/125166121-088f0e80-e192-11eb-8210-7245b1fe4f62.mp4" width="1000">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%212529&lines=The+Yaremche+Farmers+Market)](https://git.io/typing-svg)
+
+https://github.com/afedoriv/the-yaremche-farmers-market/assets/99702784/21c01e2b-958d-4a79-b58c-724f529221b7
+
+<br />
 
 ### Introduction
 
