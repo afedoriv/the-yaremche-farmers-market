@@ -49,6 +49,16 @@
 https://github.com/afedoriv/the-yaremche-farmers-market/assets/99702784/21c01e2b-958d-4a79-b58c-724f529221b7
 
 <br />
+<details>
+  <summary>Webpage Screenshot</summary>
+
+<br />
+<div align="center">
+  <img src="https://github.com/afedoriv/the-yaremche-farmers-market/assets/99702784/0dccbcb2-bcbf-422f-807d-29cf211aaf46" width="100%"/>
+</div>
+</details>
+
+<br />
 
 ### Introduction
 
@@ -87,6 +97,5 @@ Project Link - [https://github.com/afedoriv/the-yaremche-farmers-market.git](htt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alina-fedoriv-89868720b/
-[website-demo]: assets/website-demo.png
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
